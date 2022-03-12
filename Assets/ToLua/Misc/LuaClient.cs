@@ -72,6 +72,8 @@ public class LuaClient : MonoBehaviour
         {
             OpenZbsDebugger();
         }
+
+        luaState.OpenLibs(LuaDLL.luaopen_unity);
     }
 
     public void OpenZbsDebugger(string ip = "localhost")
