@@ -1,3 +1,6 @@
+# 该工程用于演示 [jojo59516/tolua_runtime](https://github.com/jojo59516/tolua_runtime/blob/master/README.md) 接入到 tolua 工程中的效果
+接入所必须的文件请查看该提交： [`b6d3b10`](https://github.com/jojo59516/tolua/commit/b6d3b103b16c026ee69d8643d9695b72a8715867)
+
 ## tolua#
 
 tolua# is a Unity lua static binder solution. the first solution that analyzes code by reflection and generates wrapper classes.<br>
